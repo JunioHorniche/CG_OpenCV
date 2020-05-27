@@ -38,6 +38,7 @@ int main()
         }
     }
     
+    // Primeira imagem
     imshow("Pixel Alterado", img);
     imshow("Canal Vermelho - Cinza", imgR);
     imshow("Canal Vermelho - RGB", imgRC);
